@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sistemas Vendas/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "6.10.5.0",
+          "MySql.Data.Entity.EF6": "6.10.5.0",
+          "MySQL.Data.EntityFrameworkCore.Design": "6.10.5.0",
+          "MySQL.Data.EntityFrameworkCore": "6.10.5.0",
+          "MySql.Web": "6.10.5.0"
+        },
+        "runtime": {
+          "Sistemas Vendas.dll": {}
+        },
+        "resources": {
+          "pt-BR/Sistemas Vendas.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      },
+      "MySql.Data/6.10.5.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "6.10.5.0",
+            "fileVersion": "6.10.5.0"
+          }
+        }
+      },
+      "MySql.Data.Entity.EF6/6.10.5.0": {
+        "runtime": {
+          "MySql.Data.Entity.EF6.dll": {
+            "assemblyVersion": "6.10.5.0",
+            "fileVersion": "6.10.5.0"
+          }
+        }
+      },
+      "MySQL.Data.EntityFrameworkCore.Design/6.10.5.0": {
+        "runtime": {
+          "MySQL.Data.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "6.10.5.0",
+            "fileVersion": "6.10.5.0"
+          }
+        }
+      },
+      "MySQL.Data.EntityFrameworkCore/6.10.5.0": {
+        "runtime": {
+          "MySQL.Data.EntityFrameworkCore.dll": {
+            "assemblyVersion": "6.10.5.0",
+            "fileVersion": "6.10.5.0"
+          }
+        }
+      },
+      "MySql.Web/6.10.5.0": {
+        "runtime": {
+          "MySql.Web.dll": {
+            "assemblyVersion": "6.10.5.0",
+            "fileVersion": "6.10.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistemas Vendas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/6.10.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data.Entity.EF6/6.10.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySQL.Data.EntityFrameworkCore.Design/6.10.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySQL.Data.EntityFrameworkCore/6.10.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Web/6.10.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
